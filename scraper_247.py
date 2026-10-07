@@ -49,7 +49,6 @@ def get_247_channels(base_url):
             name = title_dom or title_attr
             cid = m.group('id').strip()
 
-            # Adult content filter skip karna ho toh kar sakte hain
             if '18+' in name.lower():
                 continue
 
@@ -79,8 +78,8 @@ def main():
         ch_name = ch['name']
         ch_id = ch['id']
         
-        # Wahi proxy format jo aapne use kiya hai
-        proxy_url = f"https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id={ch_id}&redirect_stream=true&max_res=true&api_password=Milito22"
+        # Aapka naya personal Cloudflare Worker proxy URL format
+        proxy_url = f"https://daddy-proxy.desiminecraftfacts.workers.dev/?id={ch_id}"
         
         inf_line = f'#EXTINF:-1 group-title="DLHD 24/7", {ch_name}'
         m3u_lines.append(inf_line)
@@ -95,4 +94,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-  
+    
