@@ -1,0 +1,2640 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mattiapergola/RobaFiga/raw/refs/heads/main/epg.xml"
+#EXTINF:-1 group-title="DLHD 24/7", ABC USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=51&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", AHC (American Heroes Channel)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=206&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Antenna TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=283&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", A&E USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=302&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", AMC USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=303&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Animal Planet
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=304&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Astro SuperSport 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=123&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Astro SuperSport 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=124&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Astro SuperSport 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=125&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Astro SuperSport 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=126&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 1 Premium
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=134&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 2 Premium
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=135&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 3 Premium
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=139&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 1 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=429&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 2 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=430&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 3 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=431&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 4 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=581&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 1 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=432&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 2 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=433&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 3 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=434&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 4 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=580&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Alkass One
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=781&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Alkass Two
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=782&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Alkass Three
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=783&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Alkass Four
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=784&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 1 BiH
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=579&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Abu Dhabi Sports 1 UAE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=600&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Abu Dhabi Sports 2 UAE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=601&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Abu Dhabi Sports 1 Premium
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=609&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Abu Dhabi Sports 2 Premium
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=610&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Astro Cricket
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=370&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Antena 3 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=531&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sports Tenis Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=612&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ACC Network USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=664&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Adult Swim
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=295&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", A Sport PK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=269&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", AXN Movies Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=717&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arte DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=725&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", AXS TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=742&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ABC NY USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=766&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Azteca 7 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=844&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Altitude Sports
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=923&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Azteca Uno MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=934&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 5 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=940&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 6 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=941&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 7 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=942&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 8 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=943&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 9 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=944&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arena Sport 10 Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=945&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Arte France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=958&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Automoto La chaîne
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=961&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ATV Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1000&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", A Spor Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1011&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MENA English 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=61&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MENA English 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=90&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 1 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=91&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 2 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=92&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 3 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=93&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 4 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=94&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 5 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=95&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 6 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=96&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 7 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=97&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 8 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=98&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 9 Arabic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=99&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS XTRA 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=100&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 4 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=494&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 5 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=495&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 6 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=496&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 7 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=497&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 8 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=498&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 9 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=499&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports MAX 10 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=500&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 1 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=116&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 2 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=117&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 3 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=118&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 1 Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=62&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 2 Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=63&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 3 Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=64&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS 4 Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=67&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BeIN Sports HD Qatar
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=578&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BeIN SPORTS USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=425&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS en Espa単ol
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=372&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS Australia 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=491&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS Australia 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=492&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS Australia 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=493&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Barca TV Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=522&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Benfica TV PT
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=380&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Boomerang
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=648&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BNT 1 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=476&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BNT 2 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=477&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BNT 3 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=478&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BR Fernsehen DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=737&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", bTV Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=479&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", bTV Action Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=481&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", bTV Lady Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=484&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BBC America (BBCA)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=305&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BET USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=306&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Bravo USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=307&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BBC News Channel HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=349&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BBC One UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=356&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BBC Two UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=357&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BBC Three UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=358&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BBC Four UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=359&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BIG TEN Network (BTN USA)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=397&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 1 Malaysia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=712&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 2 Malaysia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=713&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN Sports 3 Malaysia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=714&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", BFM TV France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=957&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", bein Sports 5 Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1010&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Bandsports Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=275&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ MotoGP France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=271&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Formula 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=273&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CW PIX 11 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=280&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CBS USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=52&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Court TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=281&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CW USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=300&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CNBC USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=309&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Comedy Central
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=310&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cartoon Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=339&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CNN USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=345&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cinemax USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=374&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cuatro Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=535&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 4 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=354&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 5 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=355&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CBS Sports Network (CBSSN)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=308&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=121&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=122&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Foot France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=463&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport360
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=464&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal 11 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=540&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=48&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 2 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=73&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 3 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=259&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 5 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=75&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Premium Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=566&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Family Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=567&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Seriale Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=570&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 1 Afrique
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=486&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 2 Afrique
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=487&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 3 Afrique
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=488&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 4 Afrique
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=489&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 5 Afrique
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=490&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CANAL 9 Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=805&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Combate Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=89&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 1 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=622&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 2 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=623&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 3 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=624&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 4 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=625&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 5 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=626&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 6 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=627&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 7 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=628&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 8 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=629&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magenta Sport 9 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=630&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 9 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=546&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 10 Israe
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=547&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 11 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=548&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 12 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=549&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 13 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=551&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Channel 14 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=552&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV 2 Sport Norway
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=812&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", C More Hits Sweden
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=813&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV 2 Sport 2 Norway
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=814&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", COZI TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=748&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CMT USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=647&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CTV Canada
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=602&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CTV 2 Canada
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=838&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Crime+ Investigation USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=669&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Comet USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=696&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cooking Channel USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=697&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cleo TV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=715&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", C SPAN 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=750&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CBSNY USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=767&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Chicago Sports Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=776&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Citytv
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=831&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CBC CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=832&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Claro Sports MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=933&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal5 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=936&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", C8 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=956&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CNews France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=964&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1020&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CT Sport CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1033&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova HD CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1034&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CT1 HD CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1035&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CT2 HD CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1036&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TN Live CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1037&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", OnePlay Sport 4 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1038&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", OnePlay MD2 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1039&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", OnePlay MD3 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1040&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", OnePlay MD4 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1041&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 1 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1042&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 2 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1043&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 3 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1044&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 4 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1045&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 5 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1046&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 6 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1047&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 7 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1048&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 8 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1049&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", JOJ SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1050&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Dajto SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1051&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", JOJ Šport SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1052&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 1 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1053&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 2 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1054&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 3 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1055&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 4 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1056&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 7 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1057&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 8 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1058&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Voyo Special 9 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1059&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 3 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1060&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 4 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1061&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 5 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1062&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1063&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 2 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1064&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 3 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1065&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Sport 4 SK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1066&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CBS Sports Golazo
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=910&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CMTV Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=790&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 1 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=911&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 2 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=912&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 3 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=913&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 4 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=914&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 5 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=915&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 6 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=916&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Cytavision Sports 7 Cyprus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=917&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 1 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=230&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Discovery Velocity CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=285&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 1 Bar DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=426&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 2 Bar DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=427&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 1 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=445&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 2 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=446&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 3 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=447&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN 4 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=448&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN F1 ES
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=537&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN LaLiga
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=538&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN Portugal FIFA Mundial de Clubes
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=918&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DR1 Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=801&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DR2 Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=802&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN Ligue 1 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=960&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Digi Sport 1 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=400&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Digi Sport 2 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=401&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Digi Sport 3 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=402&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Digi Sport 4 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=403&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Diema Sport Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=465&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Diema Sport 2 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=466&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Diema Sport 3 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=467&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Diema Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=482&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Diema Family Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=485&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Dubai Sports 1 UAE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=604&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Dubai Sports 2 UAE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=605&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Dubai Sports 3 UAE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=606&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Dubai Racing 2 UAE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=608&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DSTV Mzansi Magic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=786&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DSTV M-Net
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=827&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DSTV kykNET & kie
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=828&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", DAZN ZONA Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=877&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Discovery Life Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=311&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Disney Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=312&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Discovery Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=313&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Discovery Family
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=657&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Disney XD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=314&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Destination America
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=651&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Disney JR
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=652&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Dave
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=348&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=44&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN2 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=45&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPNU USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=316&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 1 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=379&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 2 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=386&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 1 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=71&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 2 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=72&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 3 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=428&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 1 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=455&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 2 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=456&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 3 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=457&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 4 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=458&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 5 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=459&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 1 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=41&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 2 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=42&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 1 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=57&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 2 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=58&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eurosport 1 SW
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=231&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eurosport 2 SW
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=232&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eurosport 1 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=233&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eurosport 2 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=234&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 1 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=524&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 2 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=525&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 1 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=878&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", EuroSport 2 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=879&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN Premium Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=387&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=81&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN2 Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=82&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN3 Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=83&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN4 Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=85&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=149&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN2 Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=150&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN Deportes
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=375&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPNews
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=288&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", E! Entertainment Television
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=315&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", E4 Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=363&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 3 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=888&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ERT 1 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=774&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eurosport 1 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=772&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eurosport 2 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=773&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN3 Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=798&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 1 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=925&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 2 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=926&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 3 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=927&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ESPN 4 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=928&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FUSE TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=279&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 1 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=39&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 2 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=758&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Soccer Plus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=756&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Cricket
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=369&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Deportes USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=643&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Sports 502 AU
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=820&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Sports 503 AU
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=821&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Sports 504 AU
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=822&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Sports 505 AU
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=823&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Sports 506 AU
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=824&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX Sports 507 AU
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=825&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 1 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=929&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 2 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=930&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 3 MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=931&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=787&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 2 Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=788&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports 3 Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=789&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Sports Premium MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=830&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FilmBox Premium Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=568&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fight Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=757&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Business
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=297&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX HD Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=483&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOX USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=54&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FX USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=317&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FXX USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=298&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Freeform
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=301&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox News
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=347&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FX Movie Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=381&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FYI
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=665&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Film4 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=688&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fashion TV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=744&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FETV - Family Entertainment Television
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=751&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FOXNY USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=768&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Fox Weather Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=775&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Arizona
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=890&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Big Brother S28 CAM 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=891&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Big Brother S28 CAM 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=892&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Big Brother S28 CAM 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=893&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Big Brother S28 CAM 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=894&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Big Brother S28 Quadview
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=895&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Midwest
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=896&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network New Orleans
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=897&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network North
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=898&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Ohio
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=899&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Oklahoma
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=900&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network SoCal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=902&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network South
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=903&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Southeast
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=904&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Sun
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=905&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network West
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=906&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", FanDuel Sports Network Wisconsin
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=907&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", France 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=950&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", France 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=951&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", France 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=952&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", France 5
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=953&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", GOL PLAY Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=530&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", GOLF Channel USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=318&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Game Show Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=319&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", beIN SPORTS MAX AR
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=597&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Gold UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=687&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Great American Family Channel (GAC)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=699&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Galavisi贸n USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=743&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Grit Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=752&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Globo SP
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=760&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Globo RIO
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=761&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Global CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=836&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", The Hallmark Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=320&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Hallmark Movies & Mysterie
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=296&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Heroes & Icons (H&I) USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=282&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=321&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO2 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=689&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO Comedy USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=690&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO Family USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=691&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO Latino USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=692&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO Signature USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=693&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO Zone USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=694&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HBO Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=569&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", History USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=322&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Headline News
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=323&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HGTV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=382&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Happy TV Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=846&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", HOT3 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=553&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ITV 1 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=350&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ITV 2 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=351&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ITV 3 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=352&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ITV 4 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=353&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ITV Quiz
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=876&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Italia 1 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=854&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Investigation Discovery (ID USA)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=324&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ION USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=325&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", IFC TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=656&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Kanal 4 Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=803&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Kanal 5 Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=804&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Kabel Eins (Kabel 1) DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=731&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Kanal D Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1001&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", LaLigaTV UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=276&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Law & Crime Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=278&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", LaLiga SmartBank TV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=539&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", L'Equipe France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=645&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", La Sexta Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=534&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Liverpool TV (LFC TV)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=826&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Logo TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=849&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Las Estrellas
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=924&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", LCI France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=962&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Lifetime Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=326&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Lifetime Movies Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=389&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", La7 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=855&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", LA7d HD+ Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=856&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Match Football 1 Russia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=136&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Match Football 2 Russia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=137&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Match Football 3 Russia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=138&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Match Premier Russia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=573&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Match TV Russia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=127&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", МАТЧ! БОЕЦ Russia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=395&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Laliga
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=84&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Liga de Campeones
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=435&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Deportes Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=436&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Deportes 2 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=438&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Deportes 3 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=526&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Deportes 4 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=527&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Golf Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=528&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Motowizja Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=563&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MSG USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=765&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MSNBC
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=327&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Magnolia Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=299&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", M4 Sports Hungary
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=265&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Movistar Supercopa de España
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=437&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MTV UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=367&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MTV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=371&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MUTV UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=377&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", M6 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=470&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Racer TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=646&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Max Sport 1 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=779&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Max Sport 2 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=780&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Marquee Sports Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=770&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Max Sport 1 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=472&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Max Sport 2 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=473&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Max Sport 3 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=474&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Max Sport 4 Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=475&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MLB Network USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=399&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MASN USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=829&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MY9TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=654&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Discovery Turbo
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=661&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", METV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=662&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MDR DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=733&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Mundotoro TV Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=749&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Monumental Sports Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=778&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MTV Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=806&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MGM+ USA / Epix
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=791&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC10 Philadelphia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=277&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NHL Network USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=663&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NFL RedZone
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=667&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=468&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=582&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports 1 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=631&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports 2 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=632&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports 3 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=633&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports 4 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=634&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports 5 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=635&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports 6 Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=636&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports Premier League Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=599&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports Start Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=637&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports Prime Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=638&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sports News Greece
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=639&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nick Music
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=666&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NESN USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=762&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=53&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBA TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=404&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC Sports Philadelphia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=777&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NFL Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=405&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC Sports Bay Area
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=753&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC Sports Boston
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=754&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC Sports California
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=755&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBCNY USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=769&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova TV Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=480&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova S Serbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=847&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NewsNation USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=292&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", National Geographic (NGC)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=328&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NICK JR
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=329&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NICK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=330&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nicktoons
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=649&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NDR DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=736&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Newsmax USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=613&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nat Geo Wild USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=745&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Noovo CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=835&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NBC Universo
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=845&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", NOW TV Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1003&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 1 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1021&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 2 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1022&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 3 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1023&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 4 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1024&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 5 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1025&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Nova Sport 6 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1026&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", OnTime Sports
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=611&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ONE 1 HD Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=541&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ONE 2 HD Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=542&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Orange Sport 1 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=439&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Orange Sport 2 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=440&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Orange Sport 3 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=441&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Orange Sport 4 Romania
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=442&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Oprah Winfrey Network (OWN)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=331&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Oxygen True Crime
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=332&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Outdoor Channel USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=848&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Oneplay Sport 1 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1027&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Oneplay Sport 2 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1028&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Oneplay Sport 3 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1029&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=562&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=47&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport 2 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=50&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport 3 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=129&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat News Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=443&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Film Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=564&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Porto Canal Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=718&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ProSieben (PRO7) DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=730&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Premier Sports Ireland 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=771&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", PTV Sports
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=450&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", PDC TV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=43&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Premier Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=88&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Prima Sport 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=583&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Prima Sport 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=584&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Prima Sport 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=585&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Prima Sport 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=586&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Paramount Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=334&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", POP TV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=653&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Premier Sports Ireland 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=799&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Prima TV RO
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=843&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Premier Sport 1 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1030&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Premier Sport 2 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1031&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Premier Sport 3 CZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1032&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Pac-12 Network USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=287&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", PBS USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=210&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Reelz Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=293&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTE 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=364&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTE 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=365&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RMC Sport 1 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=119&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RMC Sport 2 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=120&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RMC Story France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=954&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTP 1 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=719&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTP 2 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=720&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTP 3 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=721&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rai 1 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=850&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rai 2 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=851&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rai 3 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=852&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rai 4 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=853&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rai Sport Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=882&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rai Premium Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=858&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Real Madrid TV Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=523&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTL DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=740&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RDS CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=839&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RDS 2 CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=840&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RDS Info CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=841&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ring Bulgaria
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=471&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", RTL7 Netherland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=390&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Racing Tv UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=555&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Rally Tv
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=607&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Root Sports Northwest
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=920&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Football UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=35&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports+ Plus
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=36&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Action UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=37&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Main Event
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=38&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Tennis UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=46&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky sports Premier League
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=130&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports F1 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=60&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Cricket
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=65&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Golf UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=70&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports 1 DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=240&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports 2 DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=241&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Golf Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=574&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport MotoGP Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=575&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Tennis Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=576&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport F1 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=577&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports News UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=366&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports MIX UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=449&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Top Event DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=556&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Mix DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=557&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Bundesliga 1 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=558&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Austria 1 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=559&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SportsNet New York (SNY)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=759&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport MAX Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=460&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport UNO Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=461&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Arena Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=462&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Racing UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=554&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky UNO Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=881&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SONY TEN 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=885&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SONY TEN 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=886&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SONY TEN 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=887&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Bundesliga 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=946&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Bundesliga 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=947&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Bundesliga 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=948&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Bundesliga 5
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=949&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport en France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=965&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Cinema
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=970&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Comedy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=971&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Edge
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=972&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz In Black
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=973&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Kids & Family
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=974&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=975&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore Action
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=976&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore Black
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=977&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore Classic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=978&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore Family
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=979&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore Suspense
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=980&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz Encore Westerns
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=981&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Spectrum SportsNet USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=982&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 1 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=983&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 2 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=984&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 3 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=985&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 4 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=986&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 5 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=987&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 6 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=988&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Canal+ Extra 7 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=989&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", MTV Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=990&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Premium 1 Super HD PL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=991&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Premium 2 Super HD PL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=992&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Extra 1 HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=993&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Extra 2 HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=994&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Extra 3 HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=995&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Extra 4 HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=996&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport Fight HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=997&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Polsat Sport NEWS HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=998&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Eleven Sports 4 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=999&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 1 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=588&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 2 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=589&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 3 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=590&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 4 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=591&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 5 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=592&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 6 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=593&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 7 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=594&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 8 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=595&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 9 NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=596&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Select NZ
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=587&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport TV1 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=49&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport TV2 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=74&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport TV4 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=289&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport TV3 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=454&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport TV5 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=290&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport TV6 Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=291&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SIC Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=722&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SEC Network USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=385&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SporTV Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=78&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SporTV2 Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=79&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SporTV3 Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=80&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport Klub 1 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=101&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport Klub 2 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=102&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport Klub 3 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=103&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport Klub 4 Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=104&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport Klub HD Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=453&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportsnet Ontario
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=406&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportsnet One
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=411&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportsnet West
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=407&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportsnet East
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=408&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportsnet 360
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=409&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportsnet World
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=410&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Grandstand
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=412&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport PSL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=413&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Premier league
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=414&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport LaLiga
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=415&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Variety 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=416&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Variety 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=417&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Variety 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=418&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Variety 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=419&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Action
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=420&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Rugby
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=421&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Golf
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=422&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Tennis
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=423&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Motorsport
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=424&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Supersport Football
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=56&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport Cricket
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=368&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SuperSport MaXimo 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=572&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sporting TV Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=716&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SportDigital Fussball
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=571&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Spectrum Sportsnet LA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=764&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sportdigital1+ Germany
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=640&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport1 Germany
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=641&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", S4C UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=670&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport KLUB Golf Croatia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=710&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SAT.1 DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=729&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Premiere UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=671&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Select UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=672&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Hits UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=673&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Greats UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=674&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Animation UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=675&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Family UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=676&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Action UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=677&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Comedy UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=678&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Thriller UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=679&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Drama UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=680&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Sci-Fi Horror UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=681&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky NEWS UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=695&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SEE Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=811&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Collection Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=859&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Uno Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=860&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Action Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=861&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Comedy Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=862&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Uno +24 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=863&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Romance Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=864&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Family Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=865&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", CW Philly
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=866&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Cinema Drama Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=867&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", 8Sky Cinema Suspense Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=868&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport 24 Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=869&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Calcio Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=870&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Calcio 1 (251) Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=871&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Calcio 2 (252) Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=872&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Calcio 3 (253) Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=873&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Calcio 4 (254) Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=874&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sport Basket Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=875&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Serie Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=880&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", StarzPlay CricLife 1 HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=284&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Showcase UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=682&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Arts UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=683&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Comedy UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=684&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Crime
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=685&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky History
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=686&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky MAX UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=708&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=614&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=615&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=616&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=617&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport 5
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=618&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport Extra 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=619&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport Extra 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=620&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SSC Sport Extra 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=621&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 1 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=140&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 2 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=141&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 3 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=142&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 4 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=143&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 5 Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=144&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 5 PLUS Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=145&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 5 Live Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=146&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 5 Star Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=147&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sport 5 Gold Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=148&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Science Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=294&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=333&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Starz
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=335&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Witness HD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=361&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sixx DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=732&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Atlantic
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=362&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SYFY USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=373&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sundance TV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=658&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SWR DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=735&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SUPER RTL DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=738&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SR Fernsehen DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=739&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Golf DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=785&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Smithsonian Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=603&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports F1 DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=274&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Sky Sports Tennis DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=884&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SBS6 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=883&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SEE Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=811&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Star Sports 1 IN
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=267&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Star Sports Hindi IN
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=268&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime 2 USA (SHO2) USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=792&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime Showcase USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=793&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime Extreme USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=794&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime Family Zone (SHO Family Zone) USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=795&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime Next (SHO Next) USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=796&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Showtime Women USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=797&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Space City Home Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=921&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", SportsNet Pittsburgh
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=922&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Show TV Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1002&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Star TV Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1004&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Sports 1 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=31&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Sports 2 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=32&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Sports 3 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=33&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Sports 4 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=34&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TSN1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=111&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TSN2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=112&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TSN3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=113&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TSN4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=114&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TSN5
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=115&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVN HD Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=565&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVN24 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=444&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVP1 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=560&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVP2 Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=561&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Telecinco Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=532&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVE La 1 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=533&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVE La 2 Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=536&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVI Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=723&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVI Reality Portugal
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=724&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Teledeporte Spain (TDP)
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=529&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TYC Sports Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=746&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVP Sport Poland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=128&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Brasil
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=87&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Sports Argentina
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=388&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT Sports HD Chile
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=642&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Tennis Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=40&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ten Sports PK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=741&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TUDN USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=66&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Telemundo
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=131&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TBS USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=336&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TLC
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=337&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TNT USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=338&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TF1 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=469&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVA Sports
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=833&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVA Sports 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=834&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVC Deportes MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=932&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TUDN MX
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=935&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TMC France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=955&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Travel Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=340&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TruTV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=341&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVLAND
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=342&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TCM USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=644&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TMC Channel USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=698&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", The Food Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=384&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", The Weather Channel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=394&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVP INFO
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=452&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TeenNick
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=650&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV ONE USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=660&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV2 Bornholm Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=807&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV2 Sport X Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=808&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV3 Sport Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=809&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV2 Sport Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=810&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV2 Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=817&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV2 Zulu
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=818&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV3+ Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=819&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TVO CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=842&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV8 Turkey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=1005&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Hockey
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=700&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV3 Max Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=223&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", T Sports BD
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=270&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Tennis
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=701&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Motor
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=702&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Sport Live 1
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=703&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Sport Live 2
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=704&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Sport Live 3
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=705&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Sport Live 4
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=706&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Sportkanalen
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=707&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TV4 Football Sweden
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=747&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Tennis+ 10
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=709&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Tennis+ 12
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=711&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", TRT Spor TR
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=889&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", USA Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=343&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Universal Kids USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=668&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Univision
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=132&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Unimas
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=133&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Viaplay Sports 1 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=451&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Viaplay Sports 2 UK
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=550&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", #Vamos Spain
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=521&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", V Film Premiere
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=815&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", V Film Family
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=816&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Vodafone Sport
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=260&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", V Sport Motor Sweden
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=272&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", VH1 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=344&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Veronica NL Netherland
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=378&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", VTV+ Uruguay
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=391&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", VICE TV
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=659&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Willow Cricket
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=346&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Willow 2 Cricket
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=598&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", WWE Network
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=376&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Win Sports+ Columbia
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=392&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", WETV USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=655&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", WDR DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=734&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", W9 France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=959&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", YTV CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=286&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", YES Network USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=763&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Yes Movies Action Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=543&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Yes Movies Kids Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=544&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Yes Movies Comedy Israel
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=545&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Yes TV CA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=837&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ziggo Sport NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=393&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ziggo Sport 2 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=398&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ziggo Sport 3 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=919&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ziggo Sport 4 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=396&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ziggo Sport 5 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=383&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", Ziggo Sport 6 NL
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=901&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ZDF DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=727&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", ZDF Info DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=728&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", 6ter France
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=963&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", 20 Mediaset Italy
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=857&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", 6'eren Denmark
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=800&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", 5 USA
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=360&redirect_stream=true&max_res=true&api_password=Milito22
+
+#EXTINF:-1 group-title="DLHD 24/7", 3sat DE
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id=726&redirect_stream=true&max_res=true&api_password=Milito22
