@@ -8,6 +8,12 @@ from urllib.parse import urljoin
 
 SEED_BASEURL = 'https://dlive.sx/'
 
+# USA Proxy configuration
+PROXIES = {
+    'http': 'http://158.101.8.92:1080',
+    'https': 'http://158.101.8.92:1080'
+}
+
 def get_scraper():
     return cloudscraper.create_scraper(
         browser={
@@ -20,7 +26,7 @@ def get_scraper():
 def resolve_active_baseurl(seed):
     scraper = get_scraper()
     try:
-        resp = scraper.get(seed, timeout=15, allow_redirects=True)
+        resp = scraper.get(seed, proxies=PROXIES, timeout=15, allow_redirects=True)
         return resp.url if resp.url else seed
     except:
         return seed
@@ -31,7 +37,7 @@ def get_247_channels(base_url):
     
     try:
         headers = {'Referer': base_url, 'User-Agent': 'Mozilla/5.0'}
-        resp = scraper.post(url, headers=headers, timeout=15)
+        resp = scraper.post(url, headers=headers, proxies=PROXIES, timeout=15)
         html_text = resp.text
 
         card_rx = re.compile(
@@ -60,7 +66,7 @@ def get_247_channels(base_url):
         return []
 
 def main():
-    print("Resolving base URL...")
+    print("Resolving base URL using USA Proxy...")
     active_base = resolve_active_baseurl(SEED_BASEURL)
     print(f"Active Base: {active_base}")
 
@@ -78,8 +84,8 @@ def main():
         ch_name = ch['name']
         ch_id = ch['id']
         
-        # Aapka naya personal Cloudflare Worker proxy URL format
-        proxy_url = f"https://daddy-proxy.desiminecraftfacts.workers.dev/?id={ch_id}"
+        # Purana wala proxy URL format ya direct stream link jo aap use karna chahein
+        proxy_url = f"https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://dlive.sx/watch.php?id={ch_id}&redirect_stream=true&max_res=true&api_password=Milito22"
         
         inf_line = f'#EXTINF:-1 group-title="DLHD 24/7", {ch_name}'
         m3u_lines.append(inf_line)
